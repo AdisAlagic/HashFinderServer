@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HashFinderServer</string>
+    <string name="import_hash">Import Hashes</string>
+    <string name="export_hash">Export Hashes</string>
+    <string name="loading_ended">Loading ended\n(Added: %d; skipped: %d)</string>
+    <string name="loading_in_proccess">%s\n(Added: %d; skipped: %d)</string>
+    <string name="new_file">New file created in: %s</string>
+    <string name="new_file_ended">New file created in: %s\nWriting to file done</string>
+    <string name="new_file_process">New file created in: %s\nWriting to file: %s\nRemain: %d</string>
+    <string name="size_check">Size: %d</string>
+    <string name="loading_file">Reading the file…</string>
+    <string name="loading_last_task">Ending importing...</string>
+</resources>

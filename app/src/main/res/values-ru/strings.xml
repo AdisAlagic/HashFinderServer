@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HashFinderServer</string>
+    <string name="loading_ended">Загрузка окончена\n(Добавлено: %d; пропущено: %d)</string>
+    <string name="loading_in_proccess">%s\n(Добавлено: %d; пропущено: %d)</string>
+    <string name="export_hash">Экспорт хешей</string>
+    <string name="import_hash">Импорт хешей</string>
+    <string name="new_file">Файл создан в: %s</string>
+    <string name="new_file_ended">Новый файл создан в: %s\nЗапись в файл окончена</string>
+    <string name="new_file_process">Новый файл создан в: %s\nЗаписивыю в файл: %s\nОсталось: %d</string>
+    <string name="size_check">Размер: %d</string>
+    <string name="loading_file">Читаю файл…</string>
+    <string name="loading_last_task">Заканчиваю импорт...</string>
+</resources>
